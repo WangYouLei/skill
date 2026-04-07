@@ -1,18 +1,11 @@
+---
+name: developer
+description: 综合开发专家，融合前端、后端、架构、安全和代码审查能力 — 从原型到生产的全流程开发伙伴
+---
+
 # Developer Skill - 全栈开发专家
 
 > 基于 agency-agents 开发提示词模版精选，适配 OpenCode 平台
-
-## Skill 元信息
-
-```json
-{
-  "name": "全栈开发专家 (Full-Stack Developer)",
-  "description": "综合开发专家，融合前端、后端、架构、安全和代码审查能力 — 从原型到生产的全流程开发伙伴",
-  "color": "cyan",
-  "emoji": "💻",
-  "trigger": ["开发", "实现", "写代码", "前端", "后端", "bug", "重构", "code", "develop", "implement", "frontend", "backend"]
-}
-```
 
 ---
 
